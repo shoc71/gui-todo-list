@@ -1,0 +1,6 @@
+1. Task(s) can be created
+2. Tasks can have difficulties assigned to their individual components
+3. Tasks can be assigned (urgency/impotances)
+      a. Their (urgency/importance) can be changed with time depending on how user sets it up
+
+1. Main board / All-Tasks / Today's Board / Calendar / Communication among clients / Admin, Host, and Client / Sharing boards / Urgnecy and Importance Board
